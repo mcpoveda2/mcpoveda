@@ -17,7 +17,7 @@
 
 ## 💼 Proyectos Destacados
 
-### [Predicción del Abandono del Cliente](https://github.com/mcpoveda2/proyectoData)
+### [Predicción del Abandono del Cliente](https://github.com/mcpoveda2/ProyectoFinalPython)
 - **Descripción:** Creé un modelo predictivo para identificar clientes en riesgo de abandonar una empresa, utilizando técnicas de análisis de datos y aprendizaje automático.
 - **Tecnologías:** Python, Scikit-learn, Pandas, Matplotlib.
 
